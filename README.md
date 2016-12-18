@@ -1,2 +1,2 @@
 # pocSpringBoot
-Prood of Context Spring Boot / Wildfly
+Proof of Context Spring Boot / Wildfly
